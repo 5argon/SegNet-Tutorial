@@ -1,5 +1,12 @@
 # SegNet and Bayesian SegNet Tutorial
 
+## *This branch's changes*
+- Shell script for running the demo
+- Demo will run with small video file I shot near the university instead of webcam.
+- Path to caffe-segnet in the demo is relative. caffe-segnet folder should be in the same level as this repo's folder's location.
+
+---
+
 This repository contains all the files for you to complete the 'Getting Started with SegNet' and the 'Bayesian SegNet' tutorials here:
 http://mi.eng.cam.ac.uk/projects/segnet/tutorial.html
 
